@@ -1,0 +1,90 @@
+-----
+-----
+# RCMP Current Fleet Info In Progress
+-----
+-----
+         
+Bell 206 JetRanger
+	4
+	0
+	L-1,L-4
+	Helicopter, JetRanger
+
+   
+Cessna 182 Skylane
+	1
+	0
+	182Q 
+	Fixed wing, Skylane, light utility aircraft
+	
+
+Cessna 206 Stationair
+	1
+	5
+	U206G, T206H
+	C-FDGM, C-FDTM, C-FHGY, C-FSWC, C-GTJN
+	Fixed wing, Stationair (Station wagon of the Air)
+	
+		
+Cessna 208 Caravan
+	3
+	3
+	208, 208B
+	C-FRPH, C-FSUJ, C-GMPR
+	Fixed wing, Caravan, short-haul regional airliner and utility aircraft
+
+
+Cessna 210 Centurion
+	4
+	4
+	210R
+	C-FMOM, C-GHVP. C-GNMK, C-GTCT
+	Fixed wing, Centurion, high-performance general aviation aircraft
+	
+
+de Havilland Canada DHC 2 Beaver
+	0
+	1
+	Turbo Beaver III
+	C-FMPC
+	Fixed wing, bush plane
+
+
+de Havilland Canada DHC- 6 Twin Otter
+	2
+	2
+	300 Series
+	C-FMPL, C-GMPJ
+	Fixed wing, 20- passenger STOL feederliner and utility aircraft
+	
+
+Eurocopter EC 120 Colibri
+	0
+	2
+	EC 120B
+	C-FMPQ, C-GMPT
+	Light helicopter, “Hummingbird"
+
+
+Eurocopter AS 350 Ecureuil
+	4
+	8
+	AS 350B3
+	C-FGSB, C-FMPG, C-FMPH, C-FMPP. C-FRPQ. C-GMPF. C-GMPK, C-GMPN
+	Helicopter, AStar 350 or "Squirrel"
+
+
+Piaggio P180 Avanti
+	1
+	1
+	P180
+	C-GFOX
+	Fixed wing, business aircraft, pusher configured
+
+
+Pilatus PC-12
+	13
+	16
+	PC-12/45, PC-12/47, PC12/47E
+	C-FMPA, C-FMPB, C-FMPE, C-FMPF. C-FMPN, C-FMPO, C-FMPW, C-GFLA, C-GMPE, C-GMPI, C-GMPM, C-GMPP, C-GMPW, C-GMPX, C-GMPY, C-GMPZ
+	Fixed wing, turboprop passenger and cargo aircraft
