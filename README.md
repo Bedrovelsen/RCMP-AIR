@@ -51,6 +51,8 @@
 | C-FGMQ | Pilatus      | PC-12/47E        | 1107          | C01121 | 2009-05-22    |
 | C-GMPI | QUEST        | KODIAK 100       | 100-0047      | C065E7 | 2011-04-14    |
 
+[source](http://wwwapps.tc.gc.ca/Saf-Sec-Sur/2/CCARCS-RIACC/RchSimpRes.aspx?cn=%7c%7c&mn=%7c%7c&sn=%7c%7c&on=GOVERNMENT+OF+CANADA%2c+ROYAL+CANADIAN+MOUNTED+POLICE%7c&m=%7c%7c&print=n)
+
  #### Type and Location of RCMP Fleet (as of 2015 report)
 | Type                               	| Specifications & Capabilities                                                                                                                                                                                           	| # Owned 	| Location (RCMP Division)                                                                                                                           	|
 |------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------	|----------------------------------------------------------------------------------------------------------------------------------------------------	|
