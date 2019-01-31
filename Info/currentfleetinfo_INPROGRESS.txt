@@ -38,7 +38,7 @@ Cessna 210 Centurion
 	4
 	4
 	210R
-	C-FMOM, C-GHVP. C-GNMK, C-GTCT
+	C-FMOM (C02129), C-GHVP (C05956). C-GNMK (C0683F), C-GTCT (C0771C)
 	Fixed wing, Centurion, high-performance general aviation aircraft
 	
 
