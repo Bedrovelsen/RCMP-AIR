@@ -13,43 +13,43 @@
 ## Various OSINT data and info related to the air fleet operated by the RCMP
 
 ### Current Fleet Details
-| Mark   | Common Name  | Model Name       | Serial Number | Owner                                               | Owner Regist. |
+| Mark   | Common Name  | Model Name       | Serial Number | icao   | Owner Regist. |
 |--------|--------------|------------------|---------------|-----------------------------------------------------|---------------|
-| C-FMPH | Aerospatiale | AS350 B3         | 3683          | Government Of Canada, Royal Canadian Mounted Police | 2004-01-12    |
-| C-FMPP | Aerospatiale | AS350 B3         | 4124          | Government Of Canada, Royal Canadian Mounted Police | 2006-09-29    |
-| C-GMPF | Aerospatiale | AS350 B3         | 4229          | Government Of Canada, Royal Canadian Mounted Police | 2007-04-20    |
-| C-FRPQ | Aerospatiale | AS350 B3         | 3636          | Government Of Canada, Royal Canadian Mounted Police | 2004-01-13    |
-| C-GMPN | Aerospatiale | AS350 B3         | 3072          | Government Of Canada, Royal Canadian Mounted Police | 1998-07-21    |
-| C-GMPK | Aerospatiale | AS350 B3         | 3923          | Government Of Canada, Royal Canadian Mounted Police | 2005-07-05    |
-| C-FDJB | Airbus       | MBB-BK117 D-2    | 20203         | Government Of Canada, Royal Canadian Mounted Police | 2019-01-18    |
-| C-FDTM | Cessna       | T206H            | T20608476     | Government Of Canada, Royal Canadian Mounted Police | 2005-07-08    |
-| C-GMPR | Cessna       | 208              | 20800253      | Government Of Canada, Royal Canadian Mounted Police | 2001-05-11    |
-| C-FDGM | Cessna       | U206G            | U20606864     | Government Of Canada, Royal Canadian Mounted Police | 1993-09-14    |
-| C-FRPH | Cessna       | 208B             | 208B0377      | Government Of Canada, Royal Canadian Mounted Police | 1994-03-29    |
-| C-GTJN | Cessna       | T206H            | T20608443     | Government Of Canada, Royal Canadian Mounted Police | 2004-05-12    |
-| C-FSWC | Cessna       | T206H            | T20608438     | Government Of Canada, Royal Canadian Mounted Police | 2004-05-12    |
-| C-FSUJ | Cessna       | 208B             | 208B0373      | Government Of Canada, Royal Canadian Mounted Police | 1994-09-16    |
-| C-GNSE | Cessna       | T206H            | T20608847     | Government Of Canada, Royal Canadian Mounted Police | 2009-04-08    |
-| C-GMPJ | Dehavilland  | DHC-6 SERIES 300 | 534           | Government Of Canada, Royal Canadian Mounted Police | 1977-03-31    |
-| C-GMPT | Eurocopter   | EC120B           | 1355          | Government Of Canada, Royal Canadian Mounted Police | 2005-07-05    |
-| C-FMPQ | Eurocopter   | EC120B           | 1533          | Government Of Canada, Royal Canadian Mounted Police | 2008-06-13    |
-| C-GMPM | Pilatus      | PC-12/47E        | 1011          | Government Of Canada, Royal Canadian Mounted Police | 2008-07-29    |
-| C-GMPW | Pilatus      | PC-12/47E        | 1336          | Government Of Canada, Royal Canadian Mounted Police | 2014-01-21    |
-| C-GMPV | Pilatus      | PC-12/47E        | 1181          | Government Of Canada, Royal Canadian Mounted Police | 2010-03-18    |
-| C-FMPK | Pilatus      | PC-12/47E        | 1092          | Government Of Canada, Royal Canadian Mounted Police | 2009-04-08    |
-| C-GMPO | Pilatus      | PC-12/47E        | 1197          | Government Of Canada, Royal Canadian Mounted Police | 2010-08-12    |
-| C-FMPF | Pilatus      | PC-12/47         | 768           | Government Of Canada, Royal Canadian Mounted Police | 2007-08-13    |
-| C-GMPB | Pilatus      | PC-12/47E        | 1304          | Government Of Canada, Royal Canadian Mounted Police | 2012-09-06    |
-| C-GMPY | Pilatus      | PC-12/45         | 311           | Government Of Canada, Royal Canadian Mounted Police | 2000-12-04    |
-| C-GMPQ | Pilatus      | PC-12/47E        | 1268          | Government Of Canada, Royal Canadian Mounted Police | 2012-06-29    |
-| C-GMPX | Pilatus      | PC-12/47E        | 1017          | Government Of Canada, Royal Canadian Mounted Police | 2008-12-09    |
-| C-GMPA | Pilatus      | PC-12/47E        | 1262          | Government Of Canada, Royal Canadian Mounted Police | 2011-05-03    |
-| C-GMPP | Pilatus      | PC-12/45         | 374           | Government Of Canada, Royal Canadian Mounted Police | 2003-08-27    |
-| C-FMPB | Pilatus      | PC-12/45         | 283           | Government Of Canada, Royal Canadian Mounted Police | 1999-10-21    |
-| C-GMPE | Pilatus      | PC-12/47E        | 1073          | Government Of Canada, Royal Canadian Mounted Police | 2008-12-23    |
-| C-FMPA | Pilatus      | PC-12/47E        | 1216          | Government Of Canada, Royal Canadian Mounted Police | 2010-10-12    |
-| C-FGMQ | Pilatus      | PC-12/47E        | 1107          | Government Of Canada, Royal Canadian Mounted Police | 2009-05-22    |
-| C-GMPI | QUEST        | KODIAK 100       | 100-0047      | Government Of Canada, Royal Canadian Mounted Police | 2011-04-14    |
+| C-FMPH | Aerospatiale | AS350 B3         | 3683          | C0213E | 2004-01-12    |
+| C-FMPP | Aerospatiale | AS350 B3         | 4124          | C02146 | 2006-09-29    |
+| C-GMPF | Aerospatiale | AS350 B3         | 4229          | C065E4 | 2007-04-20    |
+| C-FRPQ | Aerospatiale | AS350 B3         | 3636          | C02E7B | 2004-01-13    |
+| C-GMPN | Aerospatiale | AS350 B3         | 3072          | C065EC | 1998-07-21    |
+| C-GMPK | Aerospatiale | AS350 B3         | 3923          | C065E9 | 2005-07-05    |
+| C-FDJB | Airbus       | MBB-BK117 D-2    | 20203         | C008D8 | 2019-01-18    |
+| C-FDTM | Cessna       | T206H            | T20608476     | C009E7 | 2005-07-08    |
+| C-GMPR | Cessna       | 208              | 20800253      | C065F0 | 2001-05-11    |
+| C-FDGM | Cessna       | U206G            | U20606864     | C00895 | 1993-09-14    |
+| C-FRPH | Cessna       | 208B             | 208B0377      | C02E72 | 1994-03-29    |
+| C-GTJN | Cessna       | T206H            | T20608443     | C077CC | 2004-05-12    |
+| C-FSWC | Cessna       | T206H            | T20608438     | C031C7 | 2004-05-12    |
+| C-FSUJ | Cessna       | 208B             | 208B0373      | C0319A | 1994-09-16    |
+| C-GNSE | Cessna       | T206H            | T20608847     | C068D5 | 2009-04-08    |
+| C-GMPJ | Dehavilland  | DHC-6 SERIES 300 | 534           | C065E8 | 1977-03-31    |
+| C-GMPT | Eurocopter   | EC120B           | 1355          | C065F2 | 2005-07-05    |
+| C-FMPQ | Eurocopter   | EC120B           | 1533          | C02147 | 2008-06-13    |
+| C-GMPM | Pilatus      | PC-12/47E        | 1011          | C065EB | 2008-07-29    |
+| C-GMPW | Pilatus      | PC-12/47E        | 1336          | C065F5 | 2014-01-21    |
+| C-GMPV | Pilatus      | PC-12/47E        | 1181          | C065F4 | 2010-03-18    |
+| C-FMPK | Pilatus      | PC-12/47E        | 1092          | C02141 | 2009-04-08    |
+| C-GMPO | Pilatus      | PC-12/47E        | 1197          | C065ED | 2010-08-12    |
+| C-FMPF | Pilatus      | PC-12/47         | 768           | C0213C | 2007-08-13    |
+| C-GMPB | Pilatus      | PC-12/47E        | 1304          | C065E0 | 2012-09-06    |
+| C-GMPY | Pilatus      | PC-12/45         | 311           | C065F7 | 2000-12-04    |
+| C-GMPQ | Pilatus      | PC-12/47E        | 1268          | C065EF | 2012-06-29    |
+| C-GMPX | Pilatus      | PC-12/47E        | 1017          | C065F6 | 2008-12-09    |
+| C-GMPA | Pilatus      | PC-12/47E        | 1262          | C065DF | 2011-05-03    |
+| C-GMPP | Pilatus      | PC-12/45         | 374           | C065EE | 2003-08-27    |
+| C-FMPB | Pilatus      | PC-12/45         | 283           | C02138 | 1999-10-21    |
+| C-GMPE | Pilatus      | PC-12/47E        | 1073          | C065E3 | 2008-12-23    |
+| C-FMPA | Pilatus      | PC-12/47E        | 1216          | C02137 | 2010-10-12    |
+| C-FGMQ | Pilatus      | PC-12/47E        | 1107          | C01121 | 2009-05-22    |
+| C-GMPI | QUEST        | KODIAK 100       | 100-0047      | C065E7 | 2011-04-14    |
 
  #### Type and Location of RCMP Fleet (as of 2015 report)
 | Type                               	| Specifications & Capabilities                                                                                                                                                                                           	| # Owned 	| Location (RCMP Division)                                                                                                                           	|
