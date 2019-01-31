@@ -10,10 +10,48 @@
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/cfgmq.png)
 [source](https://flight-data.adsbexchange.com/map?icao=C01121&date=2018-12-28)
 
-### Various data and info related to the air fleet operated by the RCMP
+## Various OSINT data and info related to the air fleet operated by the RCMP
 
- #### Type and Location of RCMP Fleet
+### Current Fleet Details
+| Mark   | Common Name  | Model Name       | Serial Number | Owner                                               | Owner Regist. |
+|--------|--------------|------------------|---------------|-----------------------------------------------------|---------------|
+| C-FMPH | Aerospatiale | AS350 B3         | 3683          | Government Of Canada, Royal Canadian Mounted Police | 2004-01-12    |
+| C-FMPP | Aerospatiale | AS350 B3         | 4124          | Government Of Canada, Royal Canadian Mounted Police | 2006-09-29    |
+| C-GMPF | Aerospatiale | AS350 B3         | 4229          | Government Of Canada, Royal Canadian Mounted Police | 2007-04-20    |
+| C-FRPQ | Aerospatiale | AS350 B3         | 3636          | Government Of Canada, Royal Canadian Mounted Police | 2004-01-13    |
+| C-GMPN | Aerospatiale | AS350 B3         | 3072          | Government Of Canada, Royal Canadian Mounted Police | 1998-07-21    |
+| C-GMPK | Aerospatiale | AS350 B3         | 3923          | Government Of Canada, Royal Canadian Mounted Police | 2005-07-05    |
+| C-FDJB | Airbus       | MBB-BK117 D-2    | 20203         | Government Of Canada, Royal Canadian Mounted Police | 2019-01-18    |
+| C-FDTM | Cessna       | T206H            | T20608476     | Government Of Canada, Royal Canadian Mounted Police | 2005-07-08    |
+| C-GMPR | Cessna       | 208              | 20800253      | Government Of Canada, Royal Canadian Mounted Police | 2001-05-11    |
+| C-FDGM | Cessna       | U206G            | U20606864     | Government Of Canada, Royal Canadian Mounted Police | 1993-09-14    |
+| C-FRPH | Cessna       | 208B             | 208B0377      | Government Of Canada, Royal Canadian Mounted Police | 1994-03-29    |
+| C-GTJN | Cessna       | T206H            | T20608443     | Government Of Canada, Royal Canadian Mounted Police | 2004-05-12    |
+| C-FSWC | Cessna       | T206H            | T20608438     | Government Of Canada, Royal Canadian Mounted Police | 2004-05-12    |
+| C-FSUJ | Cessna       | 208B             | 208B0373      | Government Of Canada, Royal Canadian Mounted Police | 1994-09-16    |
+| C-GNSE | Cessna       | T206H            | T20608847     | Government Of Canada, Royal Canadian Mounted Police | 2009-04-08    |
+| C-GMPJ | Dehavilland  | DHC-6 SERIES 300 | 534           | Government Of Canada, Royal Canadian Mounted Police | 1977-03-31    |
+| C-GMPT | Eurocopter   | EC120B           | 1355          | Government Of Canada, Royal Canadian Mounted Police | 2005-07-05    |
+| C-FMPQ | Eurocopter   | EC120B           | 1533          | Government Of Canada, Royal Canadian Mounted Police | 2008-06-13    |
+| C-GMPM | Pilatus      | PC-12/47E        | 1011          | Government Of Canada, Royal Canadian Mounted Police | 2008-07-29    |
+| C-GMPW | Pilatus      | PC-12/47E        | 1336          | Government Of Canada, Royal Canadian Mounted Police | 2014-01-21    |
+| C-GMPV | Pilatus      | PC-12/47E        | 1181          | Government Of Canada, Royal Canadian Mounted Police | 2010-03-18    |
+| C-FMPK | Pilatus      | PC-12/47E        | 1092          | Government Of Canada, Royal Canadian Mounted Police | 2009-04-08    |
+| C-GMPO | Pilatus      | PC-12/47E        | 1197          | Government Of Canada, Royal Canadian Mounted Police | 2010-08-12    |
+| C-FMPF | Pilatus      | PC-12/47         | 768           | Government Of Canada, Royal Canadian Mounted Police | 2007-08-13    |
+| C-GMPB | Pilatus      | PC-12/47E        | 1304          | Government Of Canada, Royal Canadian Mounted Police | 2012-09-06    |
+| C-GMPY | Pilatus      | PC-12/45         | 311           | Government Of Canada, Royal Canadian Mounted Police | 2000-12-04    |
+| C-GMPQ | Pilatus      | PC-12/47E        | 1268          | Government Of Canada, Royal Canadian Mounted Police | 2012-06-29    |
+| C-GMPX | Pilatus      | PC-12/47E        | 1017          | Government Of Canada, Royal Canadian Mounted Police | 2008-12-09    |
+| C-GMPA | Pilatus      | PC-12/47E        | 1262          | Government Of Canada, Royal Canadian Mounted Police | 2011-05-03    |
+| C-GMPP | Pilatus      | PC-12/45         | 374           | Government Of Canada, Royal Canadian Mounted Police | 2003-08-27    |
+| C-FMPB | Pilatus      | PC-12/45         | 283           | Government Of Canada, Royal Canadian Mounted Police | 1999-10-21    |
+| C-GMPE | Pilatus      | PC-12/47E        | 1073          | Government Of Canada, Royal Canadian Mounted Police | 2008-12-23    |
+| C-FMPA | Pilatus      | PC-12/47E        | 1216          | Government Of Canada, Royal Canadian Mounted Police | 2010-10-12    |
+| C-FGMQ | Pilatus      | PC-12/47E        | 1107          | Government Of Canada, Royal Canadian Mounted Police | 2009-05-22    |
+| C-GMPI | QUEST        | KODIAK 100       | 100-0047      | Government Of Canada, Royal Canadian Mounted Police | 2011-04-14    |
 
+ #### Type and Location of RCMP Fleet (as of 2015 report)
 | Type                               	| Specifications & Capabilities                                                                                                                                                                                           	| # Owned 	| Location (RCMP Division)                                                                                                                           	|
 |------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------	|----------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Pilatus (PC-12)                    	| Fixed wing, single turbo-prop engine, and commuter aircraft that provides a multi-purpose platform (i.e. transports passengers, cargo and aerial surveillance) and is used across Canada.                               	| 16      	| K Division x2 V Division A Division x2 O Division (Specter) J Division C Division F Division x2 E Division x2 D Division x3 (1 Specter) G Division 	|
