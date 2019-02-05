@@ -10,7 +10,7 @@
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0-2.png)
 [source]()
 
-![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0-3.png.png)
+![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0-3.png)
 [source]()
 
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0.png)
