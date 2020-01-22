@@ -11,15 +11,20 @@
 
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0-2.png)
 [source](https://flight-data.adsbexchange.com/map?icao=C065E0&date=2019-02-04)
+_[note! [ADS-B Exchange flight history data down until further notice](https://adsbexchange.com/flight-data-sql-archive/)_
 
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0-3.png)
 [source](https://flight-data.adsbexchange.com/map?icao=C065E0&date=2019-02-01)
+_[note! [ADS-B Exchange flight history data down until further notice](https://adsbexchange.com/flight-data-sql-archive/)_
 
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/C065E0.png)
 [source](https://flight-data.adsbexchange.com/map?icao=C065E0&date=2018-11-23)
+_[note! [ADS-B Exchange flight history data down until further notice](https://adsbexchange.com/flight-data-sql-archive/)_
 
 ![cfgmq](https://github.com/Bedrovelsen/RCMP-AIR/blob/master/cfgmq.png)
 [source](https://flight-data.adsbexchange.com/map?icao=C01121&date=2018-12-28)
+_[note! [ADS-B Exchange flight history data down until further notice](https://adsbexchange.com/flight-data-sql-archive/)_
+
 
 ### Current Fleet Details
 | Mark   | Common Name  | Model Name       | Serial Number | icao   | Owner Regist. |
@@ -77,3 +82,9 @@
 | TOTAL                              	| 41                                                                                                                                                                                                                      	|         	|                                                                                                                                                    	|
 
 [Source](http://www.rcmp-grc.gc.ca/en/rcmp-flight-operations-program-evaluation "Permalink to RCMP Flight Operations Program Evaluation")
+
+---
+
+#### adsbexchange.com historical data note
+_The historical search at flight-data.adsbexchange is currently down until further notice._
+[More Info Here](https://adsbexchange.com/flight-data-sql-archive/)
