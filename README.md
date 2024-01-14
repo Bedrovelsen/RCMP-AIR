@@ -25,6 +25,41 @@ _[note! [ADS-B Exchange flight history data down until further notice](https://a
 [source](https://flight-data.adsbexchange.com/map?icao=C01121&date=2018-12-28)
 _[note! [ADS-B Exchange flight history data down until further notice](https://adsbexchange.com/flight-data-sql-archive/)_
 
+---
+
+🇨🇦 #RCMP Pilatus PC-12 fleet via [@steffanwatkins](https://x.com/aur0rab0realis9/status/1324540885716160513?s=46&t=IfJRyr-UwyoM2m-vJODIzw)
+
+C-FGMQ|#C01121
+
+C-FMPA|#C02137
+
+C-FMPB|#C02138
+
+C-FMPF|#C0213C
+
+C-FMPK|#C02141
+
+C-GMPA|#C065DF
+
+C-GMPB|#C065E0
+
+C-GMPM|#C065EB
+
+C-GMPO|#C065ED
+
+C-GMPP|#C065EE
+
+C-GMPQ|#C065EF
+
+C-GMPV|#C065F4
+
+C-GMPX|#C065F6
+
+C-GMPY|#C065F7
+
+[View on map](https://globe.adsbexchange.com/?icao=c01121,c02137,c02138,c0213c,c02141,c065df,c065e0,c065eb,c065ed,c065ee,c065ef,c065f4,c065f6,c065f7)
+
+---
 
 ### Current Fleet Details
 | Mark   | Common Name  | Model Name       | Serial Number | icao   | Owner Regist. |
